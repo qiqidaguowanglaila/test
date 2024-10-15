@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="VGuG5ZY-yZn1EyhVaFgt">
-    <mxGraphModel dx="830" dy="3122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="388" dy="2449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1118,14 +1118,14 @@
         <mxCell id="S4oVqLVisbMONV-7FDm--282" value="检测结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#000000;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeWidth=0.7;" parent="1" vertex="1">
           <mxGeometry x="802.69" y="-750" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S4oVqLVisbMONV-7FDm--285" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
-          <mxGeometry x="210.5" y="-380" width="60" height="30" as="geometry" />
+        <mxCell id="S4oVqLVisbMONV-7FDm--285" value="(a) &lt;font face=&quot;宋体&quot;&gt;像素级融合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
+          <mxGeometry x="190.5" y="-380" width="115.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S4oVqLVisbMONV-7FDm--286" value="(b)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
-          <mxGeometry x="498.42" y="-380" width="60" height="30" as="geometry" />
+        <mxCell id="S4oVqLVisbMONV-7FDm--286" value="(b) &lt;font face=&quot;宋体&quot;&gt;特征级融合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
+          <mxGeometry x="469.63" y="-380" width="117.58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S4oVqLVisbMONV-7FDm--287" value="(c)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
-          <mxGeometry x="808.19" y="-380" width="60" height="30" as="geometry" />
+        <mxCell id="S4oVqLVisbMONV-7FDm--287" value="(c) &lt;font face=&quot;宋体&quot;&gt;决策级融合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=0.7;" parent="1" vertex="1">
+          <mxGeometry x="778.3800000000001" y="-380" width="115.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dVPj3Y--lOq0VGRt3jbj-11" value="FusionSPPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;fontFamily=Times New Roman;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="545.4200000000001" y="340" width="70" height="20" as="geometry" />
