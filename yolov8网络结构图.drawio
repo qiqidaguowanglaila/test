@@ -2126,7 +2126,7 @@
         <mxCell id="4s9uUNPFbFRKPPmIsfFh-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="370" y="2105" width="61.34" height="61.34" as="geometry" />
         </mxCell>
-        <mxCell id="4s9uUNPFbFRKPPmIsfFh-22" value="Share MLP：共享权重的单层感知机结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4s9uUNPFbFRKPPmIsfFh-22" value="Share MLP：共享权重的多层感知机结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="287.1" y="2200" width="228.47" height="21" as="geometry" />
         </mxCell>
       </root>
